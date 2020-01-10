@@ -32,6 +32,8 @@ IdentityFile ~/.ssh/id_rsa_user2
 
 7.下载的时候把git ssh地址修改 从 git@github.com:xxx/xxxx-xxx.git 到 git@github.king:xxx/xxxx-xxx.git。
 
+如果要添加更多，修改config文件即可
+
 用户名不正确，修改你提交项目处的用户名和邮箱
 git config user.name：查看用户名
 git config user.email：查看邮箱
